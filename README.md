@@ -1,3 +1,13 @@
+# _Template Node_
+
+node version v18.16.0
+npm version 9.5.1
+
+Bash Command Line:
+1. npm init
+2. npm install
+
+
 # _{Application Name}_
 
 #### By _**{List of contributors}**_
